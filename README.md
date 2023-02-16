@@ -23,6 +23,7 @@ The API is primarily intended for use in onboard companion computers (to support
 The [Quick Start](https://dronekit-python.readthedocs.io/en/latest/guide/quick_start.html) guide explains how to set up DroneKit on each of the supported platforms (Linux, Mac OSX, Windows) and how to write a script to connect to a vehicle (real or simulated).
 
 A basic script looks like this:
+Wassup
 
 ```python
 from dronekit import connect
